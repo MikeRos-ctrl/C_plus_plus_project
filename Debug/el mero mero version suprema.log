@@ -1,0 +1,23 @@
+﻿  el mero mero version suprema.cpp
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(150): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(309): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(317): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(416): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(423): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(527): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(534): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(632): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(639): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(758): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(766): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(868): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(875): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(975): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(982): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(1083): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(1090): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(1203): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(1210): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(1290): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mrgom\desktop\el mero mero version suprema\el mero mero version suprema.cpp(1312): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  el mero mero version suprema.vcxproj -> C:\Users\mrgom\Desktop\el mero mero version suprema\Debug\el mero mero version suprema.exe

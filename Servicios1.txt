@@ -1,0 +1,14 @@
+Aqui vera todos los servicios que se agregaron c:
+
+
+|Servicio|			|Codigo|			|Sub-servicio|			|Sub-codigo|			|Precio|
+[1] 
+[2] tinto2
+				[1]1111
+				[2]1116
+								[1]
+								[2]pantalon
+												[1]01
+												[2]23
+																[1]
+																[2]20.20

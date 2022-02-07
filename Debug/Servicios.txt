@@ -1,0 +1,9 @@
+Aqui vera todos los servicios que se agregaron c:
+
+
+|Servicio|			|Codigo|			|Sub-servicio|			|Sub-codigo|			|Precio|
+[1] lavanderia
+				[1]1049
+								[1]lavado e n seco
+												[1]22
+																[1]125.25

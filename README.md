@@ -13,4 +13,6 @@ Basically, it was a laundry in which i had to register every ticket, cost of ser
 Knoledge: the basics(validations,funtions, variable types, pointers, for, do while, etc)
           pretty much the basics of c++.
 
-*If you want to compile in vs 2019, just copy the main.cpp and paste it, otherwhise, probably you'll have some errors
+*opc 1) If you want to compile in vs 2019, just copy the main.cpp and paste it, otherwhise, probably you'll have some errors
+*opc 2) go to Solution explorer-> properties of the project name->General-> SDK version->use the latest
+*opc 2.1) if you still have some troubles -> go to Solution explorer-> properties of the project name->General-> platform tools -> Vs 2019
